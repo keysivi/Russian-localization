@@ -36,3 +36,13 @@ Autodrive
 Solar Lamp
 Power Armor MK3
 
+---------------
+
+Версия 0.0.04
+
+Добавлены переводы:
+
+SF advanced solar
+Water Turret
+Mushroom Cloud
+
