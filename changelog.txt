@@ -1,0 +1,209 @@
+
+Версия 0.0.13
+
+Удалены переводы:
+
+cerys
+fill4me
+freezer
+ion cannon
+laserfence
+maraxsis
+
+Так как в эти моды были добавлены русские локализации
+За рекомендации благодарность Fr_Dae
+
+---------------
+
+Версия 0.0.12
+
+Удален перевод:
+
+James Oily Extravaganza - так как в этот мод была добавлена русская локализация
+
+---------------
+
+Версия 0.0.11
+
+Исправлен и улучшен перевод:
+
+James Oily Extravaganza
+
+---------------
+
+Версия 0.0.10
+
+Добавлен перевод:
+
+AAI Vehicles: Ironclad 
+
+---------------
+
+Версия 0.0.09
+
+Исправлен перевод:
+
+Tenebris
+
+---------------
+
+Версия 0.0.08
+
+Скорректированны, или добавлены переводы:
+
+Air Scrubbing
+Avatars
+Battery Powered
+Biochemistry
+Gleba Uranium
+Boompuff Agriculture 
+Call a Plumber
+Cerys, Moon of Fulgora
+Colony Builder
+Cupric Asteroids 
+Dashing
+Diversitree
+Extra Storage Tanks: Tiny Storage Tanks
+Flow Configuration 
+Fluroflux: Stingfrond Agriculture
+Freezer
+Frozen Food 
+Fulgoran Sludge
+Fusion Fuel 
+Fusion Robots
+Fusion Thruster 
+Hazard Lights Redux
+James Oily Extravaganza
+Spidertron Weapon Loadout
+Vehicle Equipment Grids 
+Kuxynator's Core Library
+Orbital Ion Cannon (Space Age Edition)
+Large Storage Tank 
+miniMAXIme: Character scaler and selector
+Planet Arrakis 
+Schall Circuit Group 
+Schall Transport Group
+Slipstack Agriculture
+Solar Productivity
+Spidertron Enhancements
+Tenebris
+Terra Palus 
+Modern Bulk Rail Loader
+Underground Storage Tank 
+Uranium Geiger
+Vacuum Cleaner
+Visible Planets in Space
+Pollution: Impactful Smog / Spore Cloud
+Vulcanus Parched
+Wooden Industry
+Zithorian's Extra Storage Tanks for 2.0 
+
+---------------------------------------------------------------------------------------------------
+
+Версия 0.0.07
+
+Скорректированны, или добавлены переводы:
+
+Ash
+Bluetonium Fusion
+Demolisher Scales
+Flow Control
+Blood & Gore 
+Maraxsis
+Schall Pickup Tower
+Schall Remains & Pickup
+Visible Planets in Space
+Warehousing Roof
+
+---------------
+
+Версия 0.0.06
+
+Добавлен перевод:
+
+Flamethrower Fluid
+
+---------------
+
+Версия 0.0.05
+
+Скорректированны, или добавлены переводы:
+
+Arborium Renewed
+Asphalt Roads Patched
+Ballistic Missile
+Concretexture - updated for 2.0
+DivOresity 
+Electric Boiler
+Flow Control
+Fluid Must Flow
+Glowing Trees
+Blood & Gore 
+Hazard Lights Redux
+HelicopterRecolored
+HelicopterRevival
+Vehicle Equipment Grids
+KS Combat Revival
+Laser Fence
+miniMAXIme: Character scaler and selector
+NiceFill
+Noxys Trees
+Realistic Flashlight Fixed
+Rocket-Silo Construction
+Schall Transport Group
+Schall Uranium Processing
+Tesla Weapon Tweak
+Vehicle Physics
+Vehicle Corpses
+Pollution: Visible Smog / Spore Cloud
+
+---------------
+
+Версия 0.0.04
+
+Добавлены переводы:
+
+SF advanced solar
+Water Turret
+Mushroom Cloud
+
+---------------
+
+Версия 0.0.03
+
+Скорректированны, или добавлены переводы:
+
+Combat mechanics overhaul
+AAI Containers & Warehouses
+AAI Loaders
+Avatars
+BGM Pack - Adjunct: Fa
+BGM Pack - Adjunct: CC
+Bioluminescence
+Companion Drones Rebalanced
+Geothermal
+Landfill plus | Breakable landfill and recipe cost changer
+Lex's Aircraft
+miniMAXIme: Character scaler and selector
+More Defender Capsules
+Orbital Ion Cannon (SE Edition)
+Pavement Drive Assist Continued
+Powered Belts
+Powered Belts Extended
+Rubber Belts
+Space Spidertron
+Spidertron Weapon Switcher
+Tral's Robot Tree Farm
+Vehicle Grid
+Wind Turbines
+AAI Vehicles: Miner
+LTN - Logistic Train Network
+Pavement Drive Assist Continued
+Rocket-Silo Construction
+Space Exploration LTN integration
+Autodrive
+Solar Lamp
+Power Armor MK3
+
+
+
