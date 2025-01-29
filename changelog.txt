@@ -1,3 +1,55 @@
+
+Версия 0.0.08
+
+Скорректированны, или добавлены переводы:
+
+Air Scrubbing
+Avatars
+Battery Powered
+Biochemistry
+Gleba Uranium
+Boompuff Agriculture 
+Call a Plumber
+Cerys, Moon of Fulgora
+Colony Builder
+Cupric Asteroids 
+Dashing
+Diversitree
+Extra Storage Tanks: Tiny Storage Tanks
+Flow Configuration 
+Fluroflux: Stingfrond Agriculture
+Freezer
+Frozen Food 
+Fulgoran Sludge
+Fusion Fuel 
+Fusion Robots
+Fusion Thruster 
+Hazard Lights Redux
+James Oily Extravaganza
+Spidertron Weapon Loadout
+Vehicle Equipment Grids 
+Kuxynator's Core Library
+Orbital Ion Cannon (Space Age Edition)
+Large Storage Tank 
+miniMAXIme: Character scaler and selector
+Planet Arrakis 
+Schall Circuit Group 
+Schall Transport Group
+Slipstack Agriculture
+Solar Productivity
+Spidertron Enhancements
+Tenebris
+Terra Palus 
+Modern Bulk Rail Loader
+Underground Storage Tank 
+Uranium Geiger
+Vacuum Cleaner
+Visible Planets in Space
+Pollution: Impactful Smog / Spore Cloud
+Vulcanus Parched
+Wooden Industry
+Zithorian's Extra Storage Tanks for 2.0 
+
 ---------------------------------------------------------------------------------------------------
 
 Версия 0.0.07
