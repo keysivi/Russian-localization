@@ -1,2 +1,38 @@
 ---------------------------------------------------------------------------------------------------
 
+Версия 0.0.03
+
+Скорректированны, или добавлены переводы:
+
+Combat mechanics overhaul
+AAI Containers & Warehouses
+AAI Loaders
+Avatars
+BGM Pack - Adjunct: Fa
+BGM Pack - Adjunct: CC
+Bioluminescence
+Companion Drones Rebalanced
+Geothermal
+Landfill plus | Breakable landfill and recipe cost changer
+Lex's Aircraft
+miniMAXIme: Character scaler and selector
+More Defender Capsules
+Orbital Ion Cannon (SE Edition)
+Pavement Drive Assist Continued
+Powered Belts
+Powered Belts Extended
+Rubber Belts
+Space Spidertron
+Spidertron Weapon Switcher
+Tral's Robot Tree Farm
+Vehicle Grid
+Wind Turbines
+AAI Vehicles: Miner
+LTN - Logistic Train Network
+Pavement Drive Assist Continued
+Rocket-Silo Construction
+Space Exploration LTN integration
+Autodrive
+Solar Lamp
+Power Armor MK3
+
