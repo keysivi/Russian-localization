@@ -1,5 +1,49 @@
 ---------------------------------------------------------------------------------------------------
 
+Версия 0.0.05
+
+Скорректированны, или добавлены переводы:
+
+Arborium Renewed
+Asphalt Roads Patched
+Ballistic Missile
+Concretexture - updated for 2.0
+DivOresity 
+Electric Boiler
+Flow Control
+Fluid Must Flow
+Glowing Trees
+Blood & Gore 
+Hazard Lights Redux
+HelicopterRecolored
+HelicopterRevival
+Vehicle Equipment Grids
+KS Combat Revival
+Laser Fence
+miniMAXIme: Character scaler and selector
+NiceFill
+Noxys Trees
+Realistic Flashlight Fixed
+Rocket-Silo Construction
+Schall Transport Group
+Schall Uranium Processing
+Tesla Weapon Tweak
+Vehicle Physics
+Vehicle Corpses
+Pollution: Visible Smog / Spore Cloud
+
+---------------
+
+Версия 0.0.04
+
+Добавлены переводы:
+
+SF advanced solar
+Water Turret
+Mushroom Cloud
+
+---------------
+
 Версия 0.0.03
 
 Скорректированны, или добавлены переводы:
@@ -36,13 +80,5 @@ Autodrive
 Solar Lamp
 Power Armor MK3
 
----------------
 
-Версия 0.0.04
-
-Добавлены переводы:
-
-SF advanced solar
-Water Turret
-Mushroom Cloud
 

@@ -1,8 +1,8 @@
 {  
    "name": "locale_ru",
+   "version": "0.0.05",  
+   "factorio_version": "2.0",
    "title": "Russian localization",
-   "description": "Russian localization",
-   "author": "Keysivi",
-   "version": "0.0.04",
-   "factorio_version": "1.1"
+   "author": "KeySiVi",
+   "description": "Russian localization"
 }
