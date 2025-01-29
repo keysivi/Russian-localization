@@ -1,5 +1,22 @@
 ---------------------------------------------------------------------------------------------------
 
+Версия 0.0.07
+
+Скорректированны, или добавлены переводы:
+
+Ash
+Bluetonium Fusion
+Demolisher Scales
+Flow Control
+Blood & Gore 
+Maraxsis
+Schall Pickup Tower
+Schall Remains & Pickup
+Visible Planets in Space
+Warehousing Roof
+
+---------------
+
 Версия 0.0.06
 
 Добавлен перевод:
